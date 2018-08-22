@@ -1,0 +1,8 @@
+<launch>
+
+	 <include file="$(find rovio)/launch/rovio_node.launch"/> 
+	<include file="$(find warehouse_quad)/launch/zestimator.launch"/> 
+	<node pkg="controller" type="vin_velocity_controller" name="vin_velocity_controller" clear_params="true" output="screen">
+		<rosparam file="$(find controller)/param/vin_velocity_controller.yaml" />
+	</node>
+</launch> 
