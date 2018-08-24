@@ -1,5 +1,7 @@
 # golden_eagle
 
+0. For all the details regarding this project visit the wiki page
+
 1. Instal Voxel Grid 
 	sudo apt-get install ros-kinetic-voxel-grid
 
