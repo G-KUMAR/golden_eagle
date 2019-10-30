@@ -1,4 +1,4 @@
-# golden_eagle
+# Golden Eagle
 
 0. For all the details regarding this project visit the [wiki page](https://github.com/G-KUMAR/golden_eagle/wiki)
 
